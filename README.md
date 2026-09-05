@@ -43,9 +43,6 @@ I enjoy learning how systems work, solving problems and building practical proje
 
 ### 🗄️ Databases
 
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=mysql" />
-</p>
 
 <p align="center">
   <img src="https://skillicons.dev/icons?i=mysql,postgres" />
