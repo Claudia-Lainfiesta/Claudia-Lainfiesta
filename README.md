@@ -47,6 +47,10 @@ I enjoy learning how systems work, solving problems and building practical proje
   <img src="https://skillicons.dev/icons?i=mysql" />
 </p>
 
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=mysql,postgres" />
+</p>
+
 ### 🔧 Tools & Platforms
 
 <p align="center">
@@ -82,15 +86,24 @@ Responsive authentication and registration interface developed with HTML5 and CS
 
 <p align="center">
 
-<img
-  height="170"
-  src="https://github-readme-stats.vercel.app/api?username=Claudia-Lainfiesta&show_icons=true&theme=github_dark&hide_border=true"
-/>
+  <img
+    src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Claudia-Lainfiesta&theme=github_dark"
+    alt="GitHub Profile Details"
+  />
 
-<img
-  height="170"
-  src="https://github-readme-stats.vercel.app/api/top-langs/?username=Claudia-Lainfiesta&layout=compact&theme=github_dark&hide_border=true"
-/>
+</p>
+
+<p align="center">
+
+  <img
+    src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Claudia-Lainfiesta&theme=github_dark"
+    alt="GitHub Stats"
+  />
+
+  <img
+    src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Claudia-Lainfiesta&theme=github_dark"
+    alt="Top Languages"
+  />
 
 </p>
 
