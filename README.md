@@ -51,7 +51,7 @@ I enjoy learning how systems work, solving problems and building practical proje
 ### 🔧 Tools & Platforms
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=git,github,vscode,androidstudio,linux" />
+  <img src="https://skillicons.dev/icons?i=git,github,vscode,androidstudio,linux,windows" />
 </p>
 
 ---
